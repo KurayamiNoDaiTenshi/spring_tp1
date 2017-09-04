@@ -2,7 +2,9 @@ package dev.paie.entite;
 
 import java.time.LocalDate;
 
+import org.springframework.stereotype.Component;
 
+@Component
 public class Periode {
 	
 	private Integer id;

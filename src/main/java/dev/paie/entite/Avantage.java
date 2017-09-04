@@ -1,5 +1,8 @@
 package dev.paie.entite;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Avantage {
 
 	private Integer id;
