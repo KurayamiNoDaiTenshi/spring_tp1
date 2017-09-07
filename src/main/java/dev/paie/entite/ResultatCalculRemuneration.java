@@ -1,8 +1,7 @@
 package dev.paie.entite;
 
-import org.springframework.stereotype.Component;
+import javax.persistence.Entity;
 
-@Component
 public class ResultatCalculRemuneration {
 	private String salaireDeBase;
 	private String salaireBrut;
